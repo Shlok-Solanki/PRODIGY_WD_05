@@ -97,3 +97,4 @@ function displayWeather(data) {
 // Initial load - fetch weather for a default location or use geolocation
 fetchWeatherByLocation('London');
 
+
