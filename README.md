@@ -17,6 +17,7 @@ Whether you're traveling, planning your day, or just curious about the weather a
 
 🌈 Beautiful gradient background and clean layout
 
+
 🚀 Live Demo
 
 🔗 [Live Demo](https://shlok-Solanki.github.io/PRODIGY_WD_05/)
