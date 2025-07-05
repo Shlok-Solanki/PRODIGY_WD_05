@@ -1,5 +1,5 @@
 // API configuration
-const API_KEY = 1ba66c2fb3c84746dec9dde468d37901; // You'll need to get this from a weather API provider
+const API_KEY = '1ba66c2fb3c84746dec9dde468d37901'; // You'll need to get this from a weather API provider
 const BASE_URL = 'https://api.openweathermap.org/data/2.5/weather';
 
 // DOM elements
